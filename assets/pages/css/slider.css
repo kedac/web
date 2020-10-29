@@ -97,19 +97,19 @@
 
 /* Carousel Item Background Images */
 .carousel-slider .carousel-item-one {
-    background: url(../../../assets/onepage/img/slider/a001.jpg);
+    background: url(../../../assets/onepage/img/slider/a001.png);
     background-size: cover;
     background-position: center center;
 }
 
 .carousel-slider .carousel-item-two {
-    background: url(../../../assets/onepage/img/slider/a002.jpg);
+    background: url(../../../assets/onepage/img/slider/a002.png);
     background-size: cover;
     background-position: center center;
 }
 
 .carousel-slider .carousel-item-three {
-    background: url(../../../assets/onepage/img/slider/a003.jpg);
+    background: url(../../../assets/onepage/img/slider/a003.png);
     background-size: cover;
     background-position: center center;
 }
@@ -122,7 +122,7 @@
     line-height: 1.4;
     color: #fff;
     text-align: center;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 
 .carousel-slider .carousel-title-v2 {
@@ -293,8 +293,8 @@
 /* Carousel Positions */
 .carousel-slider .carousel-position-one {
     position: absolute;
-    top: 40%;
-    left: 45%;
+    top: 44%;
+    left: 39%;
 }
 
 .carousel-slider .carousel-position-one > a {

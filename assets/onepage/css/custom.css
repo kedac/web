@@ -19,3 +19,6 @@
 .flex-row.al-center {
   align-items: center;
 }
+.text-shadow {
+  text-shadow: 0 5px 0 rgba(0, 0, 0, 0.514);
+}
