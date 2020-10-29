@@ -1,0 +1,98 @@
+a, a:focus, a:hover, a:active {
+  color: #FF7302;
+}
+a:hover {
+  color: #FF7302;
+}
+::-moz-selection {
+  color: #fff;
+  background: #FF7302;
+}
+::selection {
+  color: #fff;
+  background: #FF7302;
+}
+.header-navigation a:hover,
+.header-navigation li.current a {
+  color: #FF7302;
+}
+.tb-socio .fa:hover {
+  color: #FF7302;
+  border: solid 1px #FF7302;
+}
+.carousel-indicators li.active {
+  background: #FF7302;
+}
+.go2top:hover {
+  border: solid 2px #FF7302;
+  color: #FF7302;
+}
+.content h1 strong, .content h2 strong, .content h3 strong, .content h4 strong {
+  color: #e85425;
+}
+.slider-item-1 .large_bold_white span,
+.slider-item-2 .large_bold_white span {
+  color: #e85425;
+}
+.tp-caption a {
+    color: #FF7302;
+}
+.services-block .fa {
+  background: #e85425;
+}
+.services-block .fa:after {
+  border-top: 9px solid #e85425;
+}
+.team-block em {
+  color: #e85425;
+}
+.portfolio-block .item > a {
+  background: #ff7402ce;
+}
+.choose-us-block .panel-default .accordion-toggle:before {
+  background-color: #e85425;
+}
+.choose-us-block .panel-default .collapsed:before {
+  background-color: #495764;/* black */
+}
+.choose-us-block .panel-default .panel-title:hover .collapsed:before {
+  background-color: #e85425;
+}
+.btn-primary {
+  background: #E94D1C;
+}
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active {
+  background: #cc3304 !important;
+}
+.facts-block .item {
+  background: rgba(255, 96, 79, 0.92);
+}
+.pi-price strong {
+  background: #E85425;
+}
+.pi-price strong:after {
+  border-top: 9px solid #E85425;
+}
+.pricing-content .list-unstyled li i {
+  color: #E85425;
+}
+.pricing-footer .btn-default:hover,
+.pricing-footer .btn-default:active {
+  background: #E85425;
+}
+.portfolio-block .item b:hover {
+  color: #E85425;
+}
+@media (max-width: 1024px) {
+	.header-mobi-ext .header-navigation a:hover,
+	.header-mobi-ext .header-navigation li.current a{
+	  background-color: #e85425;
+	  color: #fff !important;
+	}
+}
+.header .mobi-toggler:hover {
+  background-color: #e85425;
+  border-color: #e85425;
+}
